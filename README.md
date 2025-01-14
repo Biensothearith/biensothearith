@@ -61,6 +61,7 @@
 
 #
 
-<img width="100%"
+<img width="50%"
+
   alt="Instagram"
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFmMnptcmJodWczdjkxaWx0MzRnamE5Ynk1N3owdjR2N2FwOWRscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B0VKGE0kmqI975F3vI/giphy.gif"/>
