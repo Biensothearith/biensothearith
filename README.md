@@ -3,8 +3,8 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 ---
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://www.instagram.com/biensothearith/">
+  <img height="50" src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://media.giphy.com/media/8ejge49WJ4ubewOqPs/giphy.gif?cid=790b76111j79le1m24gfgjlz8seuvbtftq6f47dblsfuu39c&ep=v1_stickers_search&rid=giphy.gif&ct=s)"/>
 </a>
 
 #
