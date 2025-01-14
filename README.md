@@ -24,7 +24,7 @@
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVpaTg1MGo2bGlvbTNya2N0ZnFzdjNpOWFhOXlvbWszYWdpdTh2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MUic6gGA4OkwgsozUu/giphy.gif"/>
 <img height="120" 
   alt="Telegram"
-  src="  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtxdmd4anB2bG00YWF2bTZwN2IwNmRhdXhidWZ2MGtvc2ZvaTF5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aDtS84k1WfYiCwlIxR/giphy.gif"/>
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtxdmd4anB2bG00YWF2bTZwN2IwNmRhdXhidWZ2MGtvc2ZvaTF5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aDtS84k1WfYiCwlIxR/giphy.gif"/>
 <img width="100%"
   height="20"
   alt="Instagram"
