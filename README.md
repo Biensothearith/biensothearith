@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF%C2%A2er=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B,+I%27m+RITH;Full+Stack+Developer;Web+&+Mobile+Expert;Always+Learning+New+Things;" alt="Typing SVG" /></a>
+</p>
+
 # 🏄‍♂️ BIEN sothearith
 
 #### I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
