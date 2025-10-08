@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=BA1DF7&center=true&vCenter=true&width=435&lines=HI+%F0%9F%91%8B%2C+I'M+RITH.+;%E3%80%8EEAT%F0%9F%8D%94+-+%F0%9D%98%80+%F0%9D%97%B9+%F0%9D%97%B2+%F0%9D%97%B2+%F0%9D%97%BD+%F0%9F%8C%99+-+C%E2%88%80%E2%82%A3%C9%86+%F0%9F%AA%A3;+Build+%F0%9F%A7%9F+-+Test+%F0%9F%AB%B8%F0%9F%8F%BB+-+Deploy+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=BA1DF7&center=true&vCenter=true&width=400&lines=HI+%F0%9F%91%8B%2C+I'M+RITH.+;%E3%80%8EEAT%F0%9F%8D%94+-+%F0%9D%98%80+%F0%9D%97%B9+%F0%9D%97%B2+%F0%9D%97%B2+%F0%9D%97%BD+%F0%9F%8C%99+-+C%E2%88%80%E2%82%A3%C9%86+%F0%9F%AA%A3;+Build+%F0%9F%A7%9F+-+Test+%F0%9F%AB%B8%F0%9F%8F%BB+-+Deploy+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</p>
 
 #### I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
