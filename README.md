@@ -7,25 +7,106 @@
 
 #
 
-## <img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<h1 align="center">Languages and Skills</h1>
+<p align="center">
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+<img width="20" alt="Telegram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbjY5dTAwYjFmaWZsZHFidTd2c3dleXc5OGRubGVjaGgwZGFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DpH0qXpLOsb7oAgbpi/giphy.gif"/> 
+</p>
 
-<br/>
+<div align="center">
+  <h3>FRONT_END</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </p>
+  
+  <h3>BACK_END</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </p>
+  
+  <h3>DATA_BASE</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+    <img src="https://img.shields.io/static/v1?label=Supabase&message=%20&style=for-the-badge&logo=supabase&logoColor=white&color=3ECF8E&labelColor=3ECF8E" alt="Supabase" />
+  </p>
+  
+  <h3>MOBILE_APP</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  </p>
+  
+  <h3>DEV_OPS</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  </p>
+   <h3>UX_UI</h3>
+  <p>
+    <img src="https://img.shields.io/badge/figma-F05032?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Adobe-XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white&labelColor=FF61F6" alt="Adobe XD" />
+    <img src="https://img.shields.io/static/v1?label=draw.io&message=%20&style=for-the-badge&logo=diagramsdotnet&logoColor=white&color=F08705&labelColor=F08705" alt="draw.io" />
+  </p>
+   <h3>THIRD_PARTY</h3>
+  <p>
+   <img src="https://img.shields.io/static/v1?label=ABA&message=BANK&style=for-the-badge&logo=data:image/svg+xml;base64,ENCODED_ABA_SVG&logoWidth=22&labelColor=0A4D8C&color=0A4D8C" alt="ABA BANK" />
+   <img src="https://img.shields.io/static/v1?label=ACLEDA&message=BANK&style=for-the-badge&logo=data:image/svg+xml;base64,ENCODED_ACELEDA_SVG&logoWidth=22&labelColor=003A8C&color=003A8C" alt="ACLEDA BANK" />
+<img src="https://img.shields.io/static/v1?label=WING&message=BANK&style=for-the-badge&logo=data:image/svg+xml;base64,ENCODED_ACELEDA_SVG&logoWidth=22&labelColor=48C548&color=48C548" alt="WING BANK" />
+<img src="https://img.shields.io/static/v1?label=KHQR&message=BAKONG&style=for-the-badge&logo=data:image/svg+xml;base64,ENCODED_ACELEDA_SVG&logoWidth=22&labelColor=E53935&color=E53935" alt="KHQR" />
+<img src="https://img.shields.io/static/v1?label=App%20Store&message=%20&style=for-the-badge&logo=appstore&logoColor=white&color=0D96F6&labelColor=0D96F6" alt="App Store" />
+<img src="https://img.shields.io/static/v1?label=Play%20Store&message=%20&style=for-the-badge&logo=googleplay&logoColor=white&color=000000&labelColor=000000" alt="Play Store" />
+<img src="https://img.shields.io/static/v1?label=Netlify&message=%20&style=for-the-badge&logo=netlify&logoColor=white&color=00C7B7&labelColor=00C7B7" alt="Netlify" />
+<img src="https://img.shields.io/static/v1?label=TestApp.io&message=%20&style=for-the-badge&logo=data:image/svg+xml;base64,ENCODED_TESTAPP_SVG&logoWidth=22&color=000000&labelColor=000000" alt="TestApp.io" />
+<img src="https://img.shields.io/static/v1?label=Telegram&message=%20&style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4&labelColor=26A5E4" alt="Telegram" />
+<img src="https://img.shields.io/static/v1?label=WhatsApp&message=%20&style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366&labelColor=25D366" alt="WhatsApp" />
+  </p>
+</div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 #
 
